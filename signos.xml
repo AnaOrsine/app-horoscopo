@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<signos>  
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome> Seu Signo e AQUARIO</signoNome>
+        <descricao> A busca por inovacao e independencia podem ser caracteristicas fortes em pessoas com o sol no signo de Aquario. Com criatividade sempre em alta, costumam ser bastante inventivas e direcionadas a solucao de problemas. Quem tem um acumulo de planetas no signo de Aquario pode ter um perfil questionador e radical, e em algumas situacoes pode discordar da maioria pelo simples fato de querer ser sempre diferente.</descricao>
+    </signo> 
+    
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Seu Signo e PEIXES</signoNome>
+        <descricao> A empatia e a humildade podem ser fortes caracteristicas de Peixes. Sempre conectados com sua intuicao, piscianos e piscianas costumam captar as coisas no ar, muitas vezes sao pessoas bem discretas e observadoras que conseguem perceber o mundo atraves da observacao de si. Quem tem um acumulo de planetas no signo de Peixes tende a dar muita importancia aos seus sonhos e ao que ainda nao e real, mas pode ser.</descricao>
+    </signo> 
+ 
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>19/04</dataFim>
+        <signoNome>Seu Signo e ARIES</signoNome>
+        <descricao> Dinamicos e sinceros, quem tem sol em Aries costuma ter um forte contato com a sua individualidade, que pode parecer egoismo em alguns momentos. Arianas e arianos tendem a ser alegres e muito extrovertidos, mas tambem podem ser bastante competitivos e soar um pouco autoritarios. Podem preferir trabalhar sozinhos, mas costumam ter um otimo espirito de lideranca.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>20/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Seu Signo e TOURO</signoNome>
+        <descricao> Calmo e persistente, se voce tem sol no signo de Touro, provavelmente nao costuma se irritar com facilidade. Em geral, suas posses e bens materiais sao importantes para voce. E, dependendo do restante do seu Mapa Astral, voce pode usar isso ao seu favor, desenvolvendo uma tendencia natural para acumular bens materiais, alem de um otimo senso de organizacao financeira. Mas atencao! Essa mesma caracteristica pode despertar possessividade e materialismos excessivos.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Seu Signo e GEMEOS</signoNome>
+        <descricao > Curioso e bem humorado, quem tem sol no signo de Gemeos costuma fazer amigos sem grandes dificuldades, tem uma verdadeira vocacao para manter um circulo social diverso, com todas as tribos possiveis. Dois em um Geminianos e geminianas podem ter uma personalidade versatil, que se adapta a diversas formas de pensamento e podem transitar tranquilamente por dois lados de uma questao. Mas atencao! Com imaturidade essa facilidade de mediaçao pode se transformar em falsidade.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>22/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Seu Signo e CANCER</signoNome>
+        <descricao> Emotivos e sensiveis, quem tem sol no signo de Cancer costuma ter uma forte conexao com as lembrancas do passado, que podem contribuir para posturas muito sentimentais ou ate melancolicas. Cancerianas e cancerianos podem ser muito apegados, mas costumam ter um cuidado impar com todas as pessoas que amam. Tendem a buscar seguranca e protecao, e isso pode se demonstrar com comportamentos no dia a dia que nao oferecem grandes riscos.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome> Seu Signo LEAO</signoNome>
+        <descricao> Vaidade e bom humor podem ser marca registrada na personalidade de quem tem o sol no signo de Leao. Carismaticos e naturalmente destacaveis, leoninas e leoninos tipicos tendem a ser bem extrovertidos. Sua generosidade tambem se destaca em seu modo de amar, a felicidade da outra pessoa na relacao tambem e motivo de sua propria alegria.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome> Seu Signo VIRGEM</signoNome>
+        <descricao> A busca pela perfeicao pode ser bem presente na personalidade de quem tem o sol no signo de Virgem. Naturalmente adeptos da praticidade, virginianas e virginianos podem melhorar sua auto-estima se sentindo mais uteis e produtivos. O nivel elevado de autocritica, porem, pode leva-los a subestimar seus proprios talentos com certa facilidade.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome> Seu Signo LIBRA</signoNome>
+        <descricao> A empatia e a diplomacia podem ser bem presentes na personalidade de quem tem o sol no signo Libra. Naturalmente direcionados para as relacoes com outras pessoas, librianas e librianos podem ter um grande talento para solucionar conflitos, porem, a preocupacao em racionalizar os dois lados de uma questão pode gerar situacoes de duvida e indecisao.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome> Seu Signo ESCORPIAO</signoNome>
+        <descricao> Uma forte intuicao e uma das marcas registradas de quem tem Sol no signo Escorpiao, geralmente orientados pelas suas emocoes, escorpianos e escorpianas conseguem enxergar nas entrelinhas e identificar o que nao foi dito. Bastante conectados com seus sentimentos, podem desenvolver comportamentos possessivos e obsessivos.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome> Seu Signo SAGITARIO</signoNome>
+        <descricao> Vaidosos e bem humorados, quem tem sol no signo de Sagitario costuma enxergar com facilidade o lado positivo de cada situacao. Cidadaos do mundo, sagitarianas e sagitarianos geralmente sao pessoas extrovertidas, espontaneas e comunicativas que nao gostam nenhum pouco de solidao. O idealismo sempre presente, tambem faz do signo de Sagitario o incentivador ideal, capaz de contagiar qualquer equipe sem muitos esforcos.</descricao>
+    </signo>
+    
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <signoNome> Seu Signo CAPRICORNIO</signoNome>
+        <descricao> Praticidade e maturidade sao tipicas caracteristicas de Capricornio. Independentes, costumam fazer seu proprio caminho e nao confiar muito em rotas tracadas por outras pessoas. Quem tem um acumulo de planetas em Capricornio, mas a carreira profissional e apenas um dos aspectos que chamam a atencao dos capricornianos.</descricao>
+    </signo>
+    
+</signos>
